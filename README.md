@@ -1,4 +1,4 @@
-# Bewerbung Produktionleiter OEG
+# Bewerbung NTP offen
 
 Alle Dokumente in HTML/CSS fuer die Bewerbung
 * Anschreiben
